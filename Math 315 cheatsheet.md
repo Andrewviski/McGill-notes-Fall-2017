@@ -14,7 +14,7 @@ $$y'=F(x,y)$$
 1) Draw Integral curves tangent to the lines (each one is a solution)
 1) Integral curves don't intersect cuz $F(x,y)$ only have one value
 
-![Example](integralCurves.png)
+![Example](pics/integralCurves.png)
 
 ### **Numerical**
 
@@ -330,7 +330,7 @@ Extra notes to solve problems:
 
 * initial conditions should always start from 0, if not (it start from $k$) transform them to 0 by using $\nu=t-k$ and $u(\nu)=y(\nu+k)$ and solve for $\nu$ then for $y$
 
-#### ![Laplace table](Laplacetable.png)
+#### ![Laplace table](pics/Laplacetable.png)
 
 #### Rules for partial fractions
 
@@ -344,7 +344,7 @@ $$ (ax^2+bx+c)^k  \implies \frac{A_1x+B_1}{ax^2+bx+c}+\frac{A_2x+B_2}{(ax^2+bx+c
 
 ### Step function $u_c(t)=u(t-c)$
 
-#### ![step function <>](stepfunction.png)
+#### ![step function <>](pics/stepfunction.png)
 
 It have these properties:
 

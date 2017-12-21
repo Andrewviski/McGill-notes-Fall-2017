@@ -154,7 +154,7 @@ $R_n(X_1,X_2,...,X_n)=X_{(n)}-X_{(1)}$
 
 ### **Common point estimator**
 
-![Common estimators](common.png)
+![Common estimators](pics/common.png)
 
 ### **Bias for some estimator $\hat{\theta_n}$:**
 
@@ -727,11 +727,11 @@ $$\sigma^2 \implies \frac{(n-2)\hat{\sigma}^2}{\sigma^2} \sim \chi^2_{(n-2)}$$
 
 ### Distributions
 
-![Discrete](distro1.png)
+![Discrete](pics/distro1.png)
 
 \pagebreak
 
-![Continuous](distro2.png)
+![Continuous](pics/distro2.png)
 
 ### **CDF**
 
